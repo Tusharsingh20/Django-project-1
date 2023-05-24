@@ -1,0 +1,11 @@
+django-admin type in terminal
+
+then type the django-admin startproject (name of object)
+close it vs code and open the object of the file in  new vs code 
+
+
+1. python manage.py makemigrations
+2. python manage.py migrate
+3. python manage.py startapp home
+
+4. make admin id and pass python manage.py createsuperuser
